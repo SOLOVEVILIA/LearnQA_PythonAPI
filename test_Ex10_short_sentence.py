@@ -1,5 +1,3 @@
-import pytest
-
 #Чтобы pytest не игнорировал команду ввода с клавиатуры, запускать тест нужно с ключиком "-s": python3 -m pytest -s %my_test%.py
 phrase = input("Enter a phrase no longer than 15 characters: ")
 
